@@ -62,6 +62,12 @@ worked. Your saved games stay through every update.
 
 ## License
 
-Copyright (c) 2026 Adam. All rights reserved. Calcuville: Signal Lost is proprietary software, not
-open source. You may download it from this repository and play it; you may not copy, re-upload,
-distribute, sell, modify or claim it as your own. See [LICENSE](LICENSE) for the full terms.
+Copyright (c) 2026 Adam. All rights reserved. Calcuville: Signal Lost is **proprietary software, not
+open source**. You may download it from this repository and play it for personal or classroom
+learning. You may not copy, re-upload, share the files, sell, modify, extract its lessons or
+questions, or claim it as your own. Schools may install it on their own devices; to give it to
+students, share the link to this repository, not the files. See [LICENSE](LICENSE) for the full
+terms.
+
+The game includes music, icons, fonts and libraries made by others under their own licenses; see
+[THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
