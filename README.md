@@ -59,3 +59,9 @@ worked. Your saved games stay through every update.
   what changed.
 - `calcuville-X.Y.Z.apk`: the Android app, on releases that need one.
 - `Calcuville-Setup-X.Y.Z.exe`: the Windows installer.
+
+## License
+
+Copyright (c) 2026 Adam. All rights reserved. Calcuville: Signal Lost is proprietary software, not
+open source. You may download it from this repository and play it; you may not copy, re-upload,
+distribute, sell, modify or claim it as your own. See [LICENSE](LICENSE) for the full terms.
