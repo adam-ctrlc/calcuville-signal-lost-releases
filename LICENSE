@@ -1,73 +1,485 @@
-Calcuville: Signal Lost - Proprietary License
+                     CALCUVILLE: SIGNAL LOST PROPRIETARY LICENSE
+                            Version 1.0, October 2026
 
-Copyright (c) 2026 Adam (github.com/adam-ctrlc). All rights reserved.
+          Copyright (c) 2026 Adam (github.com/adam-ctrlc). All rights reserved.
 
-Calcuville: Signal Lost, including the Android app, the Windows app, the game files in this
-repository's releases, and all of its code, art, 3D models, characters, music, sounds, text,
-lessons, questions, names and logos (together, "the Game"), is owned by the copyright holder
-named above and is protected by copyright and other intellectual property laws, including the
-Intellectual Property Code of the Philippines (Republic Act No. 8293).
+   TERMS AND CONDITIONS FOR DOWNLOADING, INSTALLING, USING AND SHARING
 
-The Game is licensed, not sold. Nothing in this repository is open source.
+   THIS IS NOT AN OPEN SOURCE LICENSE. The Game is licensed, not sold.
+   Read these terms before you download, install or use the Game.
 
-1. WHAT YOU MAY DO
+   1. Definitions.
 
-   You may download the Game only from this repository
-   (https://github.com/adam-ctrlc/calcuville-signal-lost-releases), install it on devices you
-   own or are allowed to use, and play it for personal or classroom learning, free of charge.
-   You may share a link to this repository.
+      "License" means the terms and conditions in this document, Sections 1
+      through 20.
 
-2. WHAT YOU MAY NOT DO
+      "Licensor" means the copyright holder named above, the sole author and
+      owner of the Game, and anyone the Licensor authorizes in writing to act
+      on the Licensor's behalf.
 
-   Unless the copyright holder has given you written permission, you may not:
+      "You" (or "Your") means the individual or Organization exercising any
+      permission granted by this License.
 
-   a. copy, re-upload, mirror, share or distribute the Game or any of its files (including the
-      APK, the Windows installer and the files attached to the releases), by any means, whether
-      for free or for payment;
-   b. sell, rent, lease, sublicense or otherwise make money from the Game;
-   c. modify, translate, adapt or make derivative works of the Game, or reuse any part of it in
-      another project;
-   d. decompile, disassemble, reverse engineer or extract the Game's code or assets, except to
-      the extent the law allows this despite this restriction;
-   e. claim that you made, own or co-own the Game or any part of it, or present it as your own
-      work, including in school, thesis, portfolio or competition submissions;
-   f. remove, hide or change any copyright notice, credit or this license;
-   g. use the Game, its names, characters or art to suggest that the copyright holder supports
-      or is connected to you, your product or your organisation;
-   h. use the Game or any of its content to train, test or build artificial intelligence or
-      machine learning systems.
+      "Organization" means any school, college, university, training center,
+      tutoring business, company, government office, club or other group, and
+      any person acting on its behalf, such as a teacher, administrator or IT
+      staff member.
 
-3. OWNERSHIP
+      "Game" means the software and content titled "Calcuville: Signal Lost",
+      in every form and every version, past, present and future, including:
+      (a) the Android application package ("APK"); (b) the Windows installer
+      and the installed Windows application; (c) every file attached to a
+      release in the Official Repository, including "latest.json" and every
+      "f-<hash>" file; (d) every Update; and (e) all Licensor Content.
 
-   The copyright holder keeps all rights, title and interest in the Game, including in every
-   update. Any right not expressly granted in this license is reserved. Your saved games belong
-   to you.
+      "Licensor Content" means every element of the Game created by or for the
+      Licensor, including its source code, compiled code, game logic, levels,
+      maps, the town and its sectors, quests, lessons, scrolls, Study Desk
+      problems, questions, answers, worked examples, explanations, characters,
+      monsters, guardians, outfits, 3D models, textures, animations, user
+      interface, layouts, text, story, the user guide, the names "Calcuville"
+      and "Calcuville: Signal Lost", and its logos and icons, as well as the
+      selection, arrangement and combination of all elements of the Game,
+      including Third-Party Components, into the Game as a whole. Licensor
+      Content does not include Third-Party Components themselves.
 
-4. GITHUB
+      "Third-Party Components" means the software, fonts, icons, music and
+      sound effects made by others that are included in the Game under their
+      own licenses, as listed in the file THIRD-PARTY-NOTICES.md in the
+      Official Repository.
 
-   This repository is public so the Game can be downloaded and updated. Being able to see or
-   fork it on GitHub, as GitHub's Terms of Service allow, does not give you any right to use,
-   copy or distribute the Game outside this license.
+      "Official Repository" means the GitHub repository at
+      https://github.com/adam-ctrlc/calcuville-signal-lost-releases.
 
-5. TERMINATION
+      "Official Sources" means (a) the release pages and release files of the
+      Official Repository, and (b) the update system built into the Game,
+      which downloads Updates from the Official Repository.
 
-   This license ends automatically if you break any of its terms. When it ends you must stop
-   using the Game and delete every copy you have. The copyright holder may take legal action
-   against any infringement, in addition to ending this license.
+      "Update" means any new version, patch, fix, live update, bundle or new
+      APK or installer of the Game that the Licensor releases.
 
-6. NO WARRANTY
+      "Device" means a phone, tablet, computer or other device that You own,
+      or that You are lawfully allowed to use and install software on.
 
-   The Game is provided "as is", without warranty of any kind, express or implied, including
-   any warranty of merchantability, fitness for a particular purpose or non-infringement.
+      "Distribute" means to make the Game, or any part of it, available to any
+      other person or computer by any means, whether or not for payment and
+      whether or not modified, including by uploading, re-uploading, posting,
+      mirroring, hosting, seeding, torrenting, emailing, messaging, attaching
+      to a chat or group, sharing through Google Drive, Dropbox, OneDrive or
+      any other cloud storage, sharing through a website, forum, app store,
+      APK site or game site, sending through Bluetooth, Nearby Share, Quick
+      Share, AirDrop, Xender, SHAREit or a similar app, copying to a USB drive,
+      memory card, disc or shared folder that others can access, preloading or
+      bundling on a Device that is sold, rented, lent or given to someone else,
+      or hosting or streaming the Game as a service. Sharing a link to the
+      Official Repository is not Distribution.
 
-7. LIMITATION OF LIABILITY
+      "Derivative Work" means any work that is based on, derived from, copies
+      or contains the Game or any part of Licensor Content, in whole or in
+      part, in its original or a modified, translated, recolored, remastered,
+      ported, decompiled or re-created form. This includes mods, patches,
+      cheats, trainers, hacks, save editors, unlocked or cracked versions,
+      repacks, translations, fan versions, remakes, clones that reproduce
+      Licensor Content, and worksheets, quizzes, slides, apps, websites,
+      videos or datasets that reproduce the Game's lessons, problems, answers
+      or explanations.
 
-   To the fullest extent the law allows, the copyright holder is not liable for any claim,
-   damages or other liability, including loss of data, arising from the Game or from using it.
+      "Commercial Use" means any use intended for, or directed toward,
+      commercial advantage or money, including selling, renting, leasing or
+      licensing the Game, charging a fee for access to the Game, for Devices
+      with the Game installed or for a class, session or program in which the
+      Game is the material being sold, earning advertising, sponsorship,
+      donation or subscription income from the Game or from Distributing it,
+      and using the Game to promote a product, service or business.
 
-8. GOVERNING LAW
+      "Personal Use" means use by an individual, for that individual's own
+      learning or entertainment, that is not Commercial Use.
 
-   This license is governed by the laws of the Republic of the Philippines.
+      "Classroom Use" means use by an Organization, free of charge to its
+      students, for teaching or learning, that is not Commercial Use.
 
-For permission to do anything this license does not allow, contact the copyright holder through
-https://github.com/adam-ctrlc.
+      "Written Permission" means permission given by the Licensor in writing
+      (including email or a GitHub message sent from the Licensor's account
+      at github.com/adam-ctrlc) that names You, describes what is permitted,
+      and has not been withdrawn. Permission is never implied by silence,
+      delay, past tolerance, payment to anyone other than the Licensor, or
+      the fact that the Game is publicly available.
+
+      "Saved Data" means the saved games, progress, settings and choices that
+      the Game stores on Your Device as You play.
+
+   2. Acceptance.
+
+      2.1. By downloading, installing, copying, opening or using the Game, You
+           agree to be bound by this License. If You do not agree, do not
+           download, install or use the Game, and delete any copy You have.
+
+      2.2. If You are under 18 years of age, or under the age of legal
+           capacity where You live, Your parent, legal guardian or school
+           accepts this License on Your behalf and is responsible for Your
+           compliance with it.
+
+      2.3. If You accept this License on behalf of an Organization, You
+           confirm that You have the authority to bind it, and "You" includes
+           that Organization.
+
+   3. Grant of License.
+
+      Subject to the terms and conditions of this License, the Licensor grants
+      You a limited, personal, non-exclusive, non-transferable,
+      non-sublicensable, revocable, royalty-free license, for as long as this
+      License has not been terminated, to:
+
+      (a) download the Game, only from the Official Sources;
+
+      (b) install the Game, unmodified, on Your Devices;
+
+      (c) run and play the Game on those Devices, for Personal Use or
+          Classroom Use only; and
+
+      (d) receive and install Updates, only through the Official Sources.
+
+      No other right is granted. In particular, nothing in this License grants
+      any right to Distribute the Game.
+
+   4. Classroom Use by Organizations.
+
+      4.1. An Organization may install the Game, unmodified, on Devices that
+           the Organization owns or manages, for Classroom Use by its own
+           currently enrolled students and its own staff.
+
+      4.2. To do so, the Organization may keep copies of the unmodified APK or
+           Windows installer, downloaded from the Official Sources, on storage
+           that only its own IT staff or teachers can access, and copy them
+           only onto those Devices. The Organization must delete those copies
+           when it no longer needs them for that purpose.
+
+      4.3. An Organization may not Distribute the Game to students, parents or
+           anyone else, including by posting the files in a class group chat,
+           learning management system (such as Google Classroom, Moodle or
+           Canvas) or shared drive. To let students install the Game on their
+           own Devices, the Organization must share the link to the Official
+           Repository instead.
+
+      4.4. The Organization is responsible for ensuring that its students and
+           staff comply with this License.
+
+   5. Restrictions.
+
+      Except as expressly permitted in Sections 3, 4 and 6, or by Written
+      Permission, You may not, and may not allow, help, encourage or enable
+      anyone else to:
+
+      5.1. Distribution. Distribute the Game or any part of it, including any
+           APK, installer, release file or Update, whether in original or
+           modified form.
+
+      5.2. Commercial Use. Use the Game, or any part of it, for any Commercial
+           Use.
+
+      5.3. Modification. Modify, adapt, translate, patch, mod, recolor,
+           re-skin, repack, crack or otherwise alter the Game, or create,
+           use or Distribute any Derivative Work, including any cheat,
+           trainer, hack, save editor, unlocker or tool that changes how the
+           Game works or what it contains.
+
+      5.4. Reverse engineering. Decompile, disassemble, decrypt, unpack,
+           de-obfuscate, reverse engineer or otherwise attempt to derive the
+           source code, structure, algorithms or assets of the Game, including
+           by unpacking the APK, the Windows installer, the "app.asar" or game
+           folder, or the release files, except and only to the extent that
+           applicable law expressly permits it notwithstanding this
+           restriction, and then only after first asking the Licensor in
+           writing for the information You need.
+
+      5.5. Extraction of content. Copy, extract, record, transcribe, rip,
+           screenshot in bulk or otherwise reproduce any Licensor Content,
+           including its lessons, scrolls, questions, answers, worked
+           examples, explanations, characters, models, art, text or code, for
+           use outside the Game, including in worksheets, quizzes, exams,
+           reviewers, slides, modules, books, apps, games, websites or
+           datasets, whether or not You credit the Licensor.
+
+      5.6. Re-creation and clones. Make, publish or Distribute any game, app
+           or other work that reproduces, imitates or is substantially similar
+           to the Licensor Content, including its characters, guardians,
+           outfits, maps, levels, lessons or problems, or its expression of
+           the Game's look and feel.
+
+      5.7. Circumvention. Bypass, disable, interfere with or work around any
+           part of the Game's update system, version checks, required-update
+           screen, file integrity checks, rollback system or any other
+           technical measure, or install or run any version of the Game that
+           did not come from the Official Sources.
+
+      5.8. Hosting and services. Make the Game available over a network for
+           use by others, including on a website, server, private server,
+           emulator service, remote desktop service, kiosk, cloud gaming
+           service or app store, or use the Game to provide a service to
+           others.
+
+      5.9. Claims of authorship. Claim, state or suggest that You, or anyone
+           other than the Licensor, made, wrote, designed, developed, owns or
+           co-owns the Game or any part of Licensor Content, or submit, present
+           or publish the Game or any part of it as Your own work or as the
+           work of anyone other than the Licensor, including in any school
+           project, thesis, capstone, research paper, portfolio, résumé,
+           competition, hackathon, grant application or job application.
+
+      5.10. Notices. Remove, hide, alter or obscure any copyright notice,
+            credit, license, trademark or attribution in or on the Game, the
+            Official Repository or this License, including the attributions
+            for Third-Party Components.
+
+      5.11. Names and endorsement. Use the names "Calcuville" or "Calcuville:
+            Signal Lost", the Licensor's name or account, or any character,
+            logo or art from the Game, as or in the name of any product,
+            service, page, account, channel, domain or organization, or in any
+            way that states or suggests that the Licensor endorses, sponsors,
+            is affiliated with or approves of You or anything You do.
+
+      5.12. Artificial intelligence and data. Use the Game or any Licensor
+            Content, including by scraping, downloading or recording it, to
+            train, fine-tune, test, evaluate, benchmark, prompt or improve any
+            artificial intelligence, machine learning or large language model
+            system, or include it in any dataset, or use any such system to
+            create a work that reproduces Licensor Content.
+
+      5.13. Automated access. Use bots, scripts, scrapers or other automated
+            means to download the Game or the release files, other than the
+            update system built into the Game, or download them in a way that
+            overloads the Official Repository.
+
+      5.14. Transfer. Sell, rent, lend, lease, give, assign, sublicense or
+            otherwise transfer this License or the Game to anyone else.
+
+      5.15. Unlawful use. Use the Game in any way that breaks any law or the
+            rights of any other person.
+
+   6. Screenshots, Videos and Reviews.
+
+      6.1. You may take screenshots and record videos of Yourself playing the
+           Game, and post them, for Personal Use only, as long as:
+
+           (a) You credit the Game as "Calcuville: Signal Lost by Adam
+               (github.com/adam-ctrlc)" and, where possible, link to the
+               Official Repository;
+
+           (b) the post is not Commercial Use, and is not monetized with
+               advertising, sponsorship, memberships or donations;
+
+           (c) the post does not show, read out or list the Game's lessons,
+               scrolls, problems, answers or explanations in a way that lets
+               someone use them without playing the Game, such as an answer
+               key, walkthrough of every problem or full reading of a scroll;
+               and
+
+           (d) the post does not break any other Section of this License.
+
+      6.2. Short excerpts in a genuine review, criticism, news report or
+           academic citation are permitted to the extent the law allows them
+           as fair use.
+
+      6.3. The Licensor may ask You to remove any screenshot, video or post
+           that uses the Game, and You must remove it within seven (7) days
+           of being asked.
+
+   7. Ownership and Reservation of Rights.
+
+      7.1. The Game, Licensor Content, and all copyrights, trademarks, trade
+           secrets and other intellectual property rights in them, are and
+           will remain the sole and exclusive property of the Licensor,
+           including in every Update and in any Derivative Work made in breach
+           of this License.
+
+      7.2. This License does not transfer any ownership to You. Owning or
+           controlling a Device on which the Game is installed does not give
+           You any right in the Game beyond this License.
+
+      7.3. All rights not expressly granted to You in this License are
+           reserved by the Licensor. No license or right is granted by
+           implication, estoppel, conduct, custom or otherwise.
+
+      7.4. Your Saved Data belongs to You. The Licensor does not collect it.
+
+      7.5. If You send the Licensor any idea, suggestion, bug report or other
+           feedback about the Game, the Licensor may use it freely, without
+           any obligation, payment or credit to You.
+
+   8. Updates and Changes to the Game.
+
+      8.1. The Licensor may at any time release Updates, change, add or remove
+           features or content, require an Update before the Game can be
+           played, or stop releasing or supporting the Game, without notice
+           and without liability to You.
+
+      8.2. Every Update is part of the Game and is governed by this License,
+           or by any later version of this License published with it.
+
+   9. Changes to this License.
+
+      9.1. The Licensor may publish a new version of this License in the
+           Official Repository at any time.
+
+      9.2. The new version applies to every download, installation and Update
+           made after it is published, and to Your continued use of the Game
+           after it is published. If You do not agree to the new version, You
+           must stop using the Game and delete every copy You have.
+
+   10. Third-Party Components.
+
+      10.1. Third-Party Components are licensed to You by their owners under
+            their own licenses, which are named and credited in
+            THIRD-PARTY-NOTICES.md. Those licenses, and not this License,
+            govern Your use of each Third-Party Component on its own, as
+            obtained from its own source.
+
+      10.2. Nothing in this License limits any right that a Third-Party
+            Component's license gives You in that component. However, no
+            Third-Party Component's license gives You any right in Licensor
+            Content or in the Game as a whole.
+
+   11. Public Availability and GitHub.
+
+      11.1. The Official Repository is public only so that the Game can be
+            downloaded and updated. Public availability does not make the
+            Game open source, free to Distribute, in the public domain or
+            available for any use outside this License.
+
+      11.2. Any right that GitHub's Terms of Service give other GitHub users
+            to view or fork the Official Repository on GitHub is limited to
+            what those Terms require, and gives no right to download, use,
+            copy, modify or Distribute the Game outside GitHub's own website
+            or otherwise than under this License.
+
+      11.3. A fork, mirror or copy of the Official Repository, wherever it is,
+            is not an Official Source.
+
+   12. Termination.
+
+      12.1. This License, and every right granted under it, terminates
+            automatically and immediately, without notice, if You breach any
+            of its terms.
+
+      12.2. The Licensor may also terminate this License for You, or for any
+            Organization, at any time and for any reason, by notice to You.
+
+      12.3. On termination, You must immediately stop using the Game, delete
+            and destroy every copy of the Game and of any Derivative Work in
+            Your possession or control, and, if the Licensor asks, confirm in
+            writing that You have done so.
+
+      12.4. Sections 1, 5, 7, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19 and 20
+            survive termination.
+
+   13. Enforcement and Remedies.
+
+      13.1. Any use of the Game outside this License is both a breach of this
+            License and an infringement of the Licensor's copyright and other
+            rights, including under the Intellectual Property Code of the
+            Philippines (Republic Act No. 8293, as amended), and may give rise
+            to civil and criminal liability.
+
+      13.2. You agree that a breach of this License would cause the Licensor
+            irreparable harm for which money alone would not be an adequate
+            remedy, and that the Licensor is entitled to seek an injunction,
+            temporary restraining order or other equitable relief to stop it,
+            in addition to any other remedy.
+
+      13.3. The Licensor may also seek actual damages, statutory damages,
+            the profits You made, the impounding and destruction of
+            infringing copies, and the recovery of attorney's fees and costs
+            of suit, to the fullest extent the law allows.
+
+      13.4. The Licensor's remedies are cumulative. The Licensor may also
+            report infringing copies to any website, platform, host, app store
+            or service provider and ask them to remove them.
+
+   14. Disclaimer of Warranty.
+
+      THE GAME IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTIES OR
+      CONDITIONS OF ANY KIND, EXPRESS, IMPLIED OR STATUTORY, INCLUDING ANY
+      WARRANTY OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE,
+      NON-INFRINGEMENT, ACCURACY OF ITS EDUCATIONAL CONTENT, OR THAT IT WILL
+      BE ERROR-FREE, SECURE OR UNINTERRUPTED. YOU USE THE GAME AT YOUR OWN
+      RISK. The Game is a learning aid and does not replace a teacher, a
+      textbook or official course material.
+
+   15. Limitation of Liability.
+
+      TO THE FULLEST EXTENT ALLOWED BY LAW, IN NO EVENT WILL THE LICENSOR BE
+      LIABLE TO YOU OR ANYONE ELSE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+      SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES, INCLUDING LOSS
+      OF DATA, LOSS OF SAVED DATA, DEVICE DAMAGE, LOSS OF GRADES OR ACADEMIC
+      STANDING, LOSS OF PROFITS OR BUSINESS INTERRUPTION, ARISING OUT OF OR
+      RELATED TO THIS LICENSE OR THE GAME, HOWEVER CAUSED AND UNDER ANY
+      THEORY OF LIABILITY, EVEN IF THE LICENSOR WAS ADVISED OF THE
+      POSSIBILITY OF SUCH DAMAGES. IN ANY CASE, THE LICENSOR'S TOTAL
+      LIABILITY WILL NOT EXCEED THE AMOUNT YOU PAID THE LICENSOR FOR THE
+      GAME, WHICH IS ZERO IF YOU PAID NOTHING.
+
+   16. Indemnity.
+
+      You will defend, indemnify and hold harmless the Licensor from and
+      against every claim, loss, liability, damage, cost and expense,
+      including reasonable attorney's fees, arising from Your breach of this
+      License or Your misuse of the Game.
+
+   17. Governing Law and Venue.
+
+      17.1. This License is governed by the laws of the Republic of the
+            Philippines, without regard to its conflict of law rules.
+
+      17.2. Any dispute arising from or related to this License or the Game
+            will be brought exclusively in the proper courts of Cagayan de Oro
+            City, Philippines, and You consent to the jurisdiction of those
+            courts. The Licensor may nonetheless seek injunctive relief or
+            enforce its rights in any court with jurisdiction over You or the
+            infringement.
+
+   18. Interpretation.
+
+      18.1. Headings are for convenience only and do not affect meaning.
+
+      18.2. "Including" and "such as" mean "including without limitation".
+            "Any part" includes any portion, however small, and any element
+            reproduced from memory or re-created by hand or by software.
+
+      18.3. If there is any doubt about whether something is permitted, it is
+            not permitted unless You have Written Permission.
+
+      18.4. This License is written in English. If it is translated, the
+            English version controls.
+
+   19. General.
+
+      19.1. Severability. If any provision of this License is held invalid or
+            unenforceable, it will be enforced to the maximum extent
+            permitted and limited only as much as necessary, and the rest of
+            this License remains in full force and effect.
+
+      19.2. No waiver. The Licensor's failure or delay in enforcing any
+            provision is not a waiver of it, and does not prevent the
+            Licensor from enforcing it later, against You or anyone else.
+
+      19.3. Entire agreement. This License, together with any Written
+            Permission given to You, is the entire agreement between You and
+            the Licensor about the Game, and replaces any earlier statement,
+            understanding or license about it. If a Written Permission
+            conflicts with this License, the Written Permission controls only
+            for what it expressly covers.
+
+      19.4. Assignment. You may not assign or transfer this License or any
+            right under it. The Licensor may assign or transfer this License
+            and its rights in the Game to anyone.
+
+      19.5. No relationship. Nothing in this License creates any partnership,
+            employment, agency or joint venture between You and the Licensor.
+
+   20. Contact and Permission Requests.
+
+      To ask for Written Permission, to report a copy of the Game that is
+      being Distributed without permission, or to send any notice under this
+      License, contact the Licensor through https://github.com/adam-ctrlc.
+
+   END OF TERMS AND CONDITIONS
